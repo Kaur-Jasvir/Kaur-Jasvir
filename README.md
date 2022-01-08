@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jasvir Kaur. You can call me Jas.
+- 👋 Hi, I’m Jasvir Kaur (She/Her). You can call me Jas.
 - ⚡ I love Gardening, Travel, Nature.
 - 🌱 Focus on Java Script, CSS, HTML...
 - 📫 Connect with me on: bcooljk@gmail.com
